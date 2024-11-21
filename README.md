@@ -10,6 +10,7 @@
 Game preview:<br/><br/>
 ![Gameplay & Results](/assets/key_blitz/gameplay-results.gif)<br/>
 <br/>
+<br/>
 
 # _TLO game_
 
