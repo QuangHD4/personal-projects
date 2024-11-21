@@ -9,6 +9,6 @@ Try it out:
 ### Vocab Quest
 A python-based vocab game project for TRS601 course
 
-Credits to [ChristianD37](github: https://github.com/ChristianD37) for the code and assets of the base 2D game
+Credits to [ChristianD37](https://github.com/ChristianD37) for the code and assets of the base 2D game
 
 Try it out:
