@@ -4,7 +4,7 @@
 #### Key Blitz
 A typing program to practice reflex by typing random, single keys on screen made with pygame
 
-#####Try it out: 
+Try it out: 
 .............
 
 #### Vocab Quest
