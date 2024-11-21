@@ -1,6 +1,6 @@
 ## _Key Blitz_
 
-> A typing program to practice reflex by typing random, single keys on screen. [View on Github](.................link here later........................)<br/>
+> A typing program to practice reflex by typing random, single keys on screen with spaced repetition. [View on Github](.................link here later........................)<br/>
 
 **Skills learned:**
 - Familiarize with programming concepts (variables, functions, loops, import libraries) and Python syntax
