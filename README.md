@@ -7,10 +7,12 @@
 - Object Oriented Programming (OOP)
 - Refering to documentation (pygame documentation)
   
-Game screenshots:<br/>
-[Gameplay](............add in later........./assets/key_blitz/gameplay.jpeg)<br/>
-[Results](............add in later........./assets/key_blitz/results.jpeg)<br/>
+Game preview:<br/>
 
+<div style="text-align: center;">
+  
+![Gameplay & Results](/assets/key_blitz/gameplay-results.gif)
+</div>
 <br/>
 
 ## _TLO game_
@@ -24,7 +26,6 @@ Game screenshots:<br/>
 
 Credits to [ChristianD37](https://github.com/ChristianD37) for the code and assets of the [base 2D game](https://github.com/ChristianD37/YoutubeTutorials/tree/master/Game%20States).<br/>
 
-Game screenshots:<br/>
-[Game Menu](............add in later........./assets/TLO_game/menu.jpeg)<br/>
-[Gameplay](............add in later........./assets/TLO_game/questions.gif)<br/>
-[End Game](............add in later........./assets/TLO_game/gameplay.jpeg)<br/>
+Game preview:  
+![Menu & Gameplay](/assets/TLO_game/menu-gameplay.gif)  <br/>
+![End Game](/assets/TLO_game/end.jpg)<br/>
