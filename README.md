@@ -1,4 +1,5 @@
-## _Key Blitz_
+# _Key Blitz_
+***
 
 > A typing program to practice reflex by typing random, single keys on screen with spaced repetition. [View on Github](.................link here later........................)<br/>
 
@@ -7,15 +8,12 @@
 - Object Oriented Programming (OOP)
 - Refering to documentation (pygame documentation)
   
-Game preview:<br/>
-
-<div style="text-align: center;">
-  
-![Gameplay & Results](/assets/key_blitz/gameplay-results.gif)
-</div>
+Game preview:<br/><br/>
+![Gameplay & Results](/assets/key_blitz/gameplay-results.gif)<br/>
 <br/>
 
-## _TLO game_
+# _TLO game_
+***
 
 > A vocab game project for TRS601 course. [View on Github](....................link to repo.................)<br/>
 
@@ -26,6 +24,7 @@ Game preview:<br/>
 
 Credits to [ChristianD37](https://github.com/ChristianD37) for the code and assets of the [base 2D game](https://github.com/ChristianD37/YoutubeTutorials/tree/master/Game%20States).<br/>
 
-Game preview:  
-![Menu & Gameplay](/assets/TLO_game/menu-gameplay.gif)  <br/>
+Game preview:<br/><br/>
+![Menu & Gameplay](/assets/TLO_game/menu-gameplay.gif)
+
 ![End Game](/assets/TLO_game/end.jpg)<br/>
