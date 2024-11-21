@@ -1,4 +1,4 @@
-# _Key Blitz_
+## _Key Blitz_
 ***
 
 > A typing program to practice reflex by typing random, single keys on screen with spaced repetition. [View on Github](.................link here later........................)<br/>
@@ -12,7 +12,7 @@ Game preview:<br/><br/>
 ![Gameplay & Results](/assets/key_blitz/gameplay-results.gif)<br/>
 <br/>
 
-# _TLO game_
+## _TLO game_
 ***
 
 > A vocab game project for TRS601 course. [View on Github](....................link to repo.................)<br/>
