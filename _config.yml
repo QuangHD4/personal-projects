@@ -1,1 +1,5 @@
-theme: jekyll-theme-architect
+title: Hoàng Đình Quang
+# logo: /asset/img/headshot_circle.png
+description: lil quang
+show_downloads: True
+theme: jekyll-theme-minimal
