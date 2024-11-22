@@ -1,6 +1,6 @@
 # _Key Blitz_
 
-> A typing program to practice reflexes by typing random, single keys on screen with spaced repetition. [View on Github](.................link here later........................)<br/>
+> A typing program to practice reflexes by typing random, single keys on screen with spaced repetition. [View on Github](github.com/QuangHD4/KeyBlitz)<br/>
 
 **Skills learned:**
 - Familiarize with programming concepts (variables, functions, loops, import libraries) and Python syntax
@@ -14,7 +14,7 @@ Game preview:<br/><br/>
 
 # _TLO game_
 
-> A vocab game project for TRS601 course. [View on Github](....................link to repo.................)<br/>
+> A vocab game project for TRS601 course. [View on Github](https://github.com/QuangHD4/TLOGame)<br/>
 
 **Skills learned:**
 - Python features and syntax (decorators, loading and writing to files)
