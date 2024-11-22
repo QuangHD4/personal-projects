@@ -1,6 +1,6 @@
 # _Key Blitz_
 
-> A typing program to practice reflexes by typing random, single keys on screen with spaced repetition. [View on Github](github.com/QuangHD4/KeyBlitz)<br/>
+> A typing program to practice reflexes by typing random, single keys on screen with spaced repetition. [View on Github](https://github.com/QuangHD4/KeyBlitz)<br/>
 
 **Skills learned:**
 - Familiarize with programming concepts (variables, functions, loops, import libraries) and Python syntax
